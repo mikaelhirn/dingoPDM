@@ -54,3 +54,7 @@ gerbers/
 __pycache__/
 *.py[cod]
 *$py.class
+
+# freeCAD related
+
+*.FCBak
