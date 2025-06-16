@@ -1,3 +1,7 @@
+# CAD
+- The CAD modeling is done with freeCAD version 1.0.1 (rev: 39285)
+- Download link: https://github.com/FreeCAD/FreeCAD/releases/download/1.0.1/FreeCAD_1.0.1-conda-Linux-x86_64-py311.AppImage
+
 # Case naming logic
 
 - e.g. **S-001-A** where <code>[**S**ingle/**D**ouble]-[Major Number]-[Minor revision]</code>
