@@ -1,5 +1,7 @@
 # Testing new boards 
 
+These instructions will guide you through verifying some of the basic connections and functionalities. Things you want to verify on a fresh board.
+
 ## Before installing the main connector.
 
 !! It's adviced to go through the next steps BEFORE installing the main connector
@@ -11,5 +13,7 @@
 | 3| Connect USB power. Verify that the `Status` LED is lit.                |                                                                               |
 | 4| Measure voltage at pins:                                               |                                                                               |
 | 5| Connect +12V to the input terminal:                                    |                                                                               |
-| 6| Activate each output in the Configurator. Measure +12V at each output. |                                                                               |
+| 6| Enable each output in the Configurator.                                |                                                                               |
+| 7| Verify that the output A values are 0.0A.                              |                                                                               |
+| 8| Measure +12V at each output.                                           |                                                                               |
 
