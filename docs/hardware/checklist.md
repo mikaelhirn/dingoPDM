@@ -8,8 +8,8 @@ These instructions will guide you through verifying some of the basic connection
 
 |# | Task                                                                   | Link                                                                          |
 | -| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 1| Write FW to processor.                                                 | [FW Releases](https://github.com/corygrant/DingoPDM_FW/releases)              |
-| 2| Measure continuity between:                                            |                                                                               |
+| 1| Measure continuity between:                                            |                                                                               |
+| 2| Write FW to processor.                                                 | [FW Releases](https://github.com/corygrant/DingoPDM_FW/releases)              |
 | 3| Connect USB power. Verify that the `Status` LED is lit.                |                                                                               |
 | 4| Measure voltage at pins:                                               |                                                                               |
 | 5| Connect +12V to the input terminal:                                    |                                                                               |
