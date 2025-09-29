@@ -6,7 +6,7 @@
 
 |# | Task                                                                   | Link                                                                          |
 | -| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 1| Write FW to processor.                                                 | [[FW Releases]] (https://github.com/corygrant/DingoPDM_FW/releases)           |
+| 1| Write FW to processor.                                                 | [FW Releases] (https://github.com/corygrant/DingoPDM_FW/releases)           |
 | 2| Measure continuity between:                                            |                                                                               |
 | 3| Connect USB power. Verify that the `Status` LED is lit.                |                                                                               |
 | 4| Measure voltage at pins:                                               |                                                                               |
