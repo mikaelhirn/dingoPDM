@@ -8,10 +8,10 @@ These instructions will guide you through verifying some of the basic connection
 
 |# | Task                                                                                 | Link                                                                          |
 | -| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| 1| Measure continuity between:                                                          |                                                                               |
+| 1| Measure continuity between: TODO: verify measurement points                          |                                                                               |
 | 2| Write FW to processor.                                                               | [FW Releases](https://github.com/corygrant/DingoPDM_FW/releases)              |
 | 3| Connect USB power. Verify that the `Status` LED is lit.                              |                                                                               |
-| 4| Measure voltage at pins:                                                             |                                                                               |
+| 4| Measure voltage at pins: TODO: verify measurement points                             |                                                                               |
 | 5| Connect +12V to the input terminal:                                                  |                                                                               |
 | 6| Enable each output in the Configurator. Verify that the output A values are 0.       |                                                                               |
 | 7| Measure +12V at each output.                                                         |                                                                               |
